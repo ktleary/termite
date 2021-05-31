@@ -1,0 +1,27 @@
+{
+  "name": "termite",
+  "version": "0.1.0",
+  "description": "Termite Viewer",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sr.ht./~djloop/termite"
+  },
+  "keywords": [
+    "termite",
+    "viewer",
+    "nodejs",
+    "javascript",
+    "compromise",
+    "nlp"
+  ],
+  "author": "ktl",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "eslint": "^7.27.0"
+  }
+}
